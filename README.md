@@ -1,19 +1,18 @@
 # memory-game
-memory-game
 
 Memory Game done with the help of freeCodeCamp.org Tutorial
 
-Inbuilt functions: 
+**Inbuilt functions**
 
--> for loops
--> addEventListener
--> setAttribute
--> getAttribute
--> data-name
--> document.querySelector
--> createElement
+- for loops
+- addEventListener
+- setAttribute
+- getAttribute
+- data-name
+- document.querySelector
+- createElement
 
-Rules of Memory Game
+**Rules of Memory Game**
 
 You will start by flipping over one card
 If the next card you flip matches, a pop up alert notifies you and you get +1 to your score
